@@ -1,0 +1,16 @@
+2025-11-06 11:39:21.782195,attempt:1,value:459,result:Too high
+2025-11-06 11:39:23.357418,attempt:2,value:214,result:Too high
+2025-11-06 11:39:26.194449,attempt:3,value:119,result:Too high
+2025-11-06 11:39:27.827119,attempt:4,value:45,result:Too high
+2025-11-06 11:39:29.091804,attempt:5,value:37,result:Too high
+2025-11-06 11:39:29.872789,attempt:6,value:7,result:Correct
+2025-11-06 11:39:59.381210,attempt:1,value:367,result:Too high
+2025-11-06 11:40:01.074307,attempt:2,value:211,result:Too low
+2025-11-06 11:40:09.165985,attempt:3,value:230,result:Too high
+2025-11-06 11:40:11.233272,attempt:4,value:212,result:Correct
+2025-11-06 11:40:22.495114,attempt:1,value:None,result:Invalid input
+2025-11-06 11:40:24.735661,attempt:2,value:None,result:Invalid input
+2025-11-06 11:40:27.275316,attempt:3,value:None,result:Invalid input
+2025-11-06 11:40:29.477170,attempt:4,value:242,result:Too high
+2025-11-06 11:40:30.348506,attempt:5,value:27,result:Too low
+2025-11-06 11:40:31.723918,attempt:6,value:None,result:Invalid input

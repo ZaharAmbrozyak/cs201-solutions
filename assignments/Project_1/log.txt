@@ -1,0 +1,33 @@
+2025-11-27 21:33:20.396789+00:00, ✅ get_city -> show, Kyiv
+2025-11-27 21:33:20.396961+00:00, ✅ get_weather -> show, Clouds
+2025-11-27 21:33:20.397031+00:00, ✅ get_temp -> show, 4.3 °C, temp
+2025-11-27 21:33:20.397075+00:00, ✅ show -> main, Сьогодні у Kyiv погода буде - Clouds. Температура за вікном - 4.3 °C.
+2025-11-27 21:33:20.397123+00:00, ✅ get_temp -> get_data, 4.3 °C, temp_min
+2025-11-27 21:33:20.397159+00:00, ✅ get_temp -> get_data, 4.3 °C, temp_max
+2025-11-27 21:33:20.397193+00:00, ✅ get_temp -> get_data, 4.3 °C, feels_like
+2025-11-27 21:33:20.397277+00:00, ✅ get_wind -> get_data, Захід
+2025-11-27 21:33:20.397335+00:00, ✅ get_speed -> get_data, 0.45
+2025-11-27 21:33:20.397377+00:00, ✅ get_weather -> get_data, Clouds
+2025-11-27 21:33:20.397426+00:00, ✅ show -> main, {'temp_min': '4.3 °C', 'temp_max': '4.3 °C', 'feels_like': '4.3 °C', 'wind_direction': 'Захід', 'wind_speed': 0.45, 'weather': 'Clouds'}
+2025-11-29 12:29:16.772744+00:00, ✅ get_city -> show, Kyiv
+2025-11-29 12:29:16.773904+00:00, ✅ get_weather -> show, Clouds
+2025-11-29 12:29:16.774023+00:00, ✅ get_temp -> show, 7.1 °C, temp
+2025-11-29 12:29:16.774115+00:00, ✅ show -> main, Сьогодні у Kyiv погода буде - Clouds. Температура за вікном - 7.1 °C.
+2025-11-29 12:29:16.774217+00:00, ✅ get_temp -> get_data, 7.1 °C, temp_min
+2025-11-29 12:29:16.774291+00:00, ✅ get_temp -> get_data, 7.1 °C, temp_max
+2025-11-29 12:29:16.774374+00:00, ✅ get_temp -> get_data, 7.1 °C, feels_like
+2025-11-29 12:29:16.774460+00:00, ✅ get_wind -> get_data, Південь
+2025-11-29 12:29:16.774529+00:00, ✅ get_speed -> get_data, 0.45
+2025-11-29 12:29:16.774599+00:00, ✅ get_weather -> get_data, Clouds
+2025-11-29 12:29:16.774679+00:00, ✅ show -> main, {'temp_min': '7.1 °C', 'temp_max': '7.1 °C', 'feels_like': '7.1 °C', 'wind_direction': 'Південь', 'wind_speed': 0.45, 'weather': 'Clouds'}
+2025-12-05 19:38:01.798401+00:00, ✅ get_city -> show, Kyiv
+2025-12-05 19:38:01.799126+00:00, ✅ get_weather -> show, Clouds
+2025-12-05 19:38:01.799216+00:00, ✅ get_temp -> show, 2.6 °C, temp
+2025-12-05 19:38:01.799281+00:00, ✅ show -> main, Сьогодні у Kyiv погода буде - Clouds. Температура за вікном - 2.6 °C.
+2025-12-05 19:38:01.799352+00:00, ✅ get_temp -> get_data, 2.6 °C, temp_min
+2025-12-05 19:38:01.799409+00:00, ✅ get_temp -> get_data, 2.6 °C, temp_max
+2025-12-05 19:38:01.799462+00:00, ✅ get_temp -> get_data, 2.6 °C, feels_like
+2025-12-05 19:38:01.799518+00:00, ✅ get_wind -> get_data, Схід
+2025-12-05 19:38:01.799569+00:00, ✅ get_speed -> get_data, 0.45
+2025-12-05 19:38:01.799620+00:00, ✅ get_weather -> get_data, Clouds
+2025-12-05 19:38:01.799672+00:00, ✅ show -> main, {'temp_min': '2.6 °C', 'temp_max': '2.6 °C', 'feels_like': '2.6 °C', 'wind_direction': 'Схід', 'wind_speed': 0.45, 'weather': 'Clouds'}
