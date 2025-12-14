@@ -1,0 +1,22 @@
+[
+    {
+        "full_name": "Zahar Ambrozyak",
+        "average_grade": 95,
+        "finance_type": "budget"
+    },
+    {
+        "full_name": "Nazar Redko",
+        "average_grade": 84,
+        "finance_type": "contract"
+    },
+    {
+        "full_name": "Stanislav Tarasenko",
+        "average_grade": 59,
+        "finance_type": "contract"
+    },
+    {
+        "full_name": "Artem Korotenko",
+        "average_grade": 999,
+        "finance_type": "contract"
+    }
+]

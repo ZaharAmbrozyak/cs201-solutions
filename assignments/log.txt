@@ -1,3 +1,4 @@
 {'player': 'камінь', 'ai': 'ножиці', 'win': 'player'}
 {'player': 'ножиці', 'ai': 'ножиці', 'win': 'draw'}
 {'player': 'папір', 'ai': 'папір', 'win': 'draw'}
+{'player': 'камінь', 'ai': 'ножиці', 'win': 'player'}
